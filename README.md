@@ -3,6 +3,16 @@
 
 <img width="200" src="https://user-images.githubusercontent.com/68395698/113527692-47448400-95f9-11eb-844d-408fbf3f25e8.png">
 
-## AWS 딥렌즈를 이용한 인체 관절 및 행동 인식 프로젝트
+## AWS 딥렌즈를 이용한 인체 관절 및 행동 인식
 
-### 학습방법
+
+### Train
+1. Extract pose data
+2. mxnet classification
+3.
+
+### model
+1. Convert openpose model to mxnet version
+2. Create mxnet pose classification model
+
+### Result Sample
