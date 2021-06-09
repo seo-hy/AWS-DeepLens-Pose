@@ -16,3 +16,4 @@
 2. Create mxnet pose classification model
 
 ### Result Sample
+![image](https://user-images.githubusercontent.com/68395698/121294619-a93aa600-c928-11eb-8800-6c992dd75680.png)
