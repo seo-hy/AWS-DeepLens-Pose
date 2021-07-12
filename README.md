@@ -45,8 +45,8 @@ python deeplens_pose_image.py
 
 ### Result Sample ( Test )
 
-<p align=center><img width="400" src="./result/test1.png"></p>
-<p align=center><img width="400" src="./result/test2.png"></p>
+<p align=center><img width="800" src="./result/test1.png"></p>
+<p align=center><img width="800" src="./result/test2.png"></p>
 
 ## View
 
