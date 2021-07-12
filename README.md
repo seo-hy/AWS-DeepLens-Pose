@@ -1,21 +1,63 @@
-# AWS-DeepLens-Pose-Project
+# AWS-DeepLens-Pose
 
+## AWS 딥렌즈를 이용한 행동 인식
 
-<img width="200" src="https://user-images.githubusercontent.com/68395698/113527692-47448400-95f9-11eb-844d-408fbf3f25e8.png">
+<p align=center><img width="200" src="https://user-images.githubusercontent.com/68395698/113527692-47448400-95f9-11eb-844d-408fbf3f25e8.png"></p>
 
-## AWS 딥렌즈를 이용한 인체 관절 및 행동 인식
+## Environment
 
+- AWS DeepLens
+- python 3.7
 
-### Train
+## Train
+
 1. Extract pose data
-2. mxnet classification
-3.
 
-### model
-1. Convert openpose model to mxnet version
-2. Create mxnet pose classification model
+```
+python extract_pose.py
+```
 
-### Deploy
+2. Train using mxnet_train.ipynb
+3. Get 'DeepLens_pose-0500.params' and 'DeepLens_pose-symbol.json'
+
+## Openpose
+
+1. Convert openpose model to run on DeepLens
+2. Get 'realtimePose.bin' and 'realtimePose.xml'
+
+## Deploy
+
 1. Use AWS Lambda
-### Result Sample
-![image](https://user-images.githubusercontent.com/68395698/121294619-a93aa600-c928-11eb-8800-6c992dd75680.png)
+
+## Project
+
+### Live
+
+```
+python deeplens_pose_live.py
+```
+
+### Test with Images
+
+```
+python deeplens_pose_image.py
+```
+
+### Result Sample ( Test )
+
+<p align=center><img width="400" src="./result/test1.png"></p>
+<p align=center><img width="400" src="./result/test2.png"></p>
+
+## View
+
+### Project Streams
+
+```
+./view_deeplens_project_streams.sh
+```
+
+### Live Streams
+
+```
+./view_deeplens_live_streams.sh
+```
