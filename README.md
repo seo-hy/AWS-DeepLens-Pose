@@ -1,6 +1,6 @@
 # AWS-DeepLens-Pose
 
-## AWS 딥렌즈를 이용한 행동 인식
+## AWS 딥렌즈를 이용한 자세 인식
 
 <p align=center><img width="200" src="https://user-images.githubusercontent.com/68395698/113527692-47448400-95f9-11eb-844d-408fbf3f25e8.png"></p>
 
