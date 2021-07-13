@@ -12,7 +12,7 @@
 ## Train
 
 1. You can train any posture
-2. Extract poseture data
+2. Extract posture data
 
 ```
 python extract_pose.py
