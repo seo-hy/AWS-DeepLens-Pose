@@ -11,7 +11,8 @@
 
 ## Train
 
-1. Extract pose data
+1. You can train any posture
+2. Extract poseture data
 
 ```
 python extract_pose.py
