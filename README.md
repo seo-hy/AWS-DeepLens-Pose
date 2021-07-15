@@ -29,7 +29,7 @@ python extract_pose.py
 2. Get 'realtimePose.bin' and 'realtimePose.xml'
 
 ## Deploy
-[deeplens-inference-lambda-create](https://github.com/awsdocs/aws-deeplens-user-guide/blob/master/doc_source/deeplens-inference-lambda-create.md)
+Reference : [deeplens-inference-lambda-create](https://github.com/awsdocs/aws-deeplens-user-guide/blob/master/doc_source/deeplens-inference-lambda-create.md)
 1. Use AWS Lambda
 
 
