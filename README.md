@@ -22,13 +22,16 @@ python extract_pose.py
 3. Get 'DeepLens_pose-0500.params' and 'DeepLens_pose-symbol.json'
 
 ## Openpose
+[CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
+[mxnet_Realtime_Multi-Person_Pose_Estimation](https://github.com/dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation)
 1. Convert openpose model to run on DeepLens
 2. Get 'realtimePose.bin' and 'realtimePose.xml'
 
 ## Deploy
-
+[deeplens-inference-lambda-create](https://github.com/awsdocs/aws-deeplens-user-guide/blob/master/doc_source/deeplens-inference-lambda-create.md)
 1. Use AWS Lambda
+
 
 ## Project
 
