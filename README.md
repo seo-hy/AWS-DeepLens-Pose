@@ -12,14 +12,9 @@
 ## Train
 
 1. You can train any posture
-2. Extract posture data
-
-```
-python extract_pose.py
-```
-
-2. Train using mxnet_train.ipynb
-3. Get 'DeepLens_pose-0500.params' and 'DeepLens_pose-symbol.json'
+2. Extract posture data using [extract_pose.py](https://github.com/seoh02h/AWS-DeepLens-Pose/blob/master/extract_pose.py)
+3. Train using [mxnet_train.ipynb](https://github.com/seoh02h/AWS-DeepLens-Pose/blob/master/mxnet_train.ipynb)
+4. Get 'DeepLens_pose-0500.params' and 'DeepLens_pose-symbol.json'
 
 ## Openpose
 [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
