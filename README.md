@@ -6,7 +6,7 @@
 
 ## Environment
 
-- AWS DeepLens
+- AWS DeepLens v1.1
 - python 3.7
 - mxnet 
 - ubuntu
