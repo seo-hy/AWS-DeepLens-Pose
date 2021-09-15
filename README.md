@@ -9,6 +9,7 @@
 - AWS DeepLens
 - python 3.7
 - mxnet 
+- ubuntu
 
 ## Train
 
