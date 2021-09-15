@@ -8,6 +8,7 @@
 
 - AWS DeepLens
 - python 3.7
+- mxnet 
 
 ## Train
 
